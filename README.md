@@ -105,7 +105,10 @@ int main(void)
 ```
 
 ## OUTPUT
-)
+led off:
+![WhatsApp Image 2025-05-15 at 10 30 24_8ee66874](https://github.com/user-attachments/assets/a8d0100a-b3bc-47d0-b37b-e3b3863d7fbf)
+
+led on:
 ![WhatsApp Image 2025-03-20 at 10 42 03_f1caf642](https://github.com/user-attachments/assets/0c56f11e-152e-4fb0-936b-6e650ab33c7d)
 ## Result
 
